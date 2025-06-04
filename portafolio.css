@@ -1921,7 +1921,7 @@ top: 200px;
 
 
 
-@media only screen and (min-width: 451px) and (max-width: 460px) { 
+@media only screen and (min-width: 400px) and (max-width: 460px) { 
     .h4L{
         
     text-align: center;
@@ -2497,77 +2497,7 @@ top: 200px;
 
       }
 
-     @media only screen and (min-width: 400px) and (max-width: 450px) {
-  .h4L, .h4R {
-    font-size: 14px;
-    width: 220px;
-    margin-left: 25px;
-    margin-right: 25px;
-  }
-
-  .p2L, .p2R {
-    font-size: 14px;
-    width: 220px;
-    margin-left: 25px;
-    margin-right: 25px;
-  }
-
-  .ImgRlev1, .ImgL2lev1, .ImgR3lev1,
-  .ImgLlev2, .ImgR2lev2, .ImgL3lev2,
-  .ImgRlev3, .ImgL2lev3, .ImgR3lev3,
-  .ImgLlev4, .ImgR2lev4, .ImgL3lev4,
-  .ImgRlev5, .ImgL2lev5, .ImgR3lev5 {
-    width: 200px;
-    height: auto;
-    left: auto;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    position: relative;
-    top: auto;
-  }
-
-  h5, .h5-2 {
-    font-size: 14px;
-    padding: 8px;
-    top: auto;
-    left: auto;
-    margin: 10px auto;
-    position: relative;
-    display: block;
-  }
-
-  .footer2 {
-    position: relative;
-    top: auto;
-    margin-top: 50px;
-    text-align: center;
-  }
-
-  .Next, .Back {
-    top: 20px;
-    width: 60px;
-    font-size: 12px;
-  }
-
-  .ftitulo {
-    font-size: 12px;
-  }
-
-  .fgrupo {
-    width: 200px;
-    top: auto;
-    left: auto;
-    right: auto;
-    margin: 10px auto;
-  }
-
-  .fgrupo .fmovimiento1 {
-    top: auto;
-    right: auto;
-  }
-}
-
+     
 
       .body2{
     margin-bottom: 300px;
