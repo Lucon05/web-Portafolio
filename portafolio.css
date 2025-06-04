@@ -1921,7 +1921,7 @@ top: 200px;
 
 
 
-@media only screen and (min-width: 320px) and (max-width: 460px) { 
+@media only screen and (min-width: 300px) and (max-width: 460px) { 
     .h4L{
         
     text-align: center;
