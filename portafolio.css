@@ -2587,19 +2587,7 @@ top: 150px;
     100% { transform: translateX(-400px); opacity: 0; }
 }
 
-.Next{
-            position: absolute;
-        right: 30px;
-    top: 60px; 
-    width: 90px;
-        border-color: #cae9ea;
-        
-}
-.Back{ position: absolute;
-        left:  30px;
-    top: 60px; 
-      width: 90px;
-        border-color: #cae9ea;}
+
     
      .fgrupo{ position: absolute;
         top: 180px;
@@ -2738,13 +2726,13 @@ margin-bottom: 1px;
     .ImgRlev1{ 
     width: 160px;
     height: 115px;
-    top: 275px;
+    top: 290px;
     left: 175px;}
 
     .ImgL2lev1{
     width: 160px;
     height: 115px;
-    top: 445px;
+    top: 500px;
     margin-left:8px;
     }
     .ImgR3lev1{    
